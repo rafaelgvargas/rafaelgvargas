@@ -19,3 +19,4 @@ Atuei em diversas áreas como manutenção em máquinas, servidores, instalaçã
 </div>
 
 ![Snake animation](https://github.com/rafaelgvargas/rafaelgvargas/blob/output/github-contribution-grid-snake.svg)
+  
