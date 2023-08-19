@@ -2,10 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Técnico IOT
-- 🌱 Atualmente estou aprendendo Front-end
+- 🌱 Atualmente estou aprendendo Kotlin
 - ⚡ Curiosidade: Atualmente estou trabalhando na empresa Cia Com Internet Fibra Óptica como técnico IOT.
 
-Estudante Programa Starter Full Stack Developer - Growdev
 
 Tenho 9 anos de experiência da área de TI, no qual adquiri várias soft skills tais como trabalho em equipe, 
 proatividade, liderança, colaboração, planejamento, organização, pensamento criativo e relacionamento interpessoal.
