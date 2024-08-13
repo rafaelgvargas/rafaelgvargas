@@ -1,12 +1,12 @@
 # Olá, me chamo Rafael Vargas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Técnico IOT
-- 🌱 Atualmente estou aprendendo Kotlin
-- ⚡ Curiosidade: Atualmente estou trabalhando na empresa Cia Com Internet Fibra Óptica como técnico IOT.
+- 🔭 Atualmente estou trabalhando como Técnico de Microinformática
+- 🌱 Atualmente estou me especializando em um curso de Desenvolvedor Full Stack na Cubos Academy
+- ⚡ Curiosidade: Atualmente estou trabalhando na empresa Dividata Processamento de Dados.
 
 
-Tenho 9 anos de experiência da área de TI, no qual adquiri várias soft skills tais como trabalho em equipe, 
+Tenho 10 anos de experiência da área de TI, no qual adquiri várias soft skills tais como trabalho em equipe, 
 proatividade, liderança, colaboração, planejamento, organização, pensamento criativo e relacionamento interpessoal.
 
 Atuei em diversas áreas como manutenção em máquinas, servidores, instalação de redes, instalação de servidores e rede via rádio.
